@@ -41,11 +41,10 @@ A console-based Java project for **train ticket booking**, **searching reservati
 
 ---
 ### 🌍 Connect With Me
-
 <p align="center">
-  <a href="mailto:abdulrehman06012@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" /></a>
-  <a href="https://www.linkedin.com/in/abdul-rehman-653b5a367/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" /></a>
-  <a href="https://github.com/abdulrehman-mk"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /></a>
+<a href="mailto:abdulrehman06012@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
+<a href="https://www.linkedin.com/in/abdul-rehman-653b5a367/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
+<a href="https://github.com/abdulrehman-mk"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>
 </p>
 
 ---
