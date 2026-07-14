@@ -2,23 +2,26 @@
 
 <h1 align="center">
   Hi, I'm Abdul Rehman
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" />
 </h1>
 
 <h3 align="center">
-BS Computer Science Student at SZABIST Karachi <br>
-ASP.NET Core Developer • Backend Developer • Cloud Computing (AWS)
+  BS Computer Science Student at SZABIST Karachi
 </h3>
 
 <p align="center">
+  <strong>ASP.NET Core Developer • Backend Developer • Cloud Computing (AWS)</strong>
+</p>
+
+<p align="center">
   <a href="mailto:abdulrehman06012@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/abdul-rehman-mk/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/abdulrehman-mk">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -26,11 +29,9 @@ ASP.NET Core Developer • Backend Developer • Cloud Computing (AWS)
 
 ## 👨‍💻 About Me
 
-I'm a **BS Computer Science student at SZABIST Karachi** with a strong interest in **backend development**, **cloud computing**, and **software engineering**.
+I am a **BS Computer Science student at SZABIST Karachi** passionate about building scalable software solutions and continuously improving my technical skills.
 
-I enjoy building scalable web applications, designing REST APIs, working with databases, and solving real-world problems through software.
-
-Currently expanding my knowledge in **AWS Cloud Computing**, **System Design**, and **Software Architecture** while developing practical projects using modern technologies.
+My primary interests include **Backend Development**, **ASP.NET Core**, **Cloud Computing (AWS)**, **Database Systems**, **Software Architecture**, and **System Design**. I enjoy transforming ideas into practical applications through clean, maintainable, and efficient code.
 
 ---
 
@@ -39,47 +40,43 @@ Currently expanding my knowledge in **AWS Cloud Computing**, **System Design**, 
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,c,js,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,c,js,html,css&theme=dark" />
 </p>
 
 ### Frameworks & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,fastapi,bootstrap&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,fastapi,bootstrap&theme=dark" />
 </p>
 
 ### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=sqlserver,postgres,mongodb&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=sqlserver,postgres,mongodb&theme=dark" />
 </p>
 
 ### Cloud & Developer Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,visualstudio,postman,figma,ubuntu&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,visualstudio,postman,figma,ubuntu&theme=dark" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-| Project | Technologies |
-|----------|--------------|
-| 💰 **Expense Tracker with Charts** | ASP.NET Core MVC • SQL Server • Entity Framework Core • Chart.js |
-| 🤖 **AI Chatbot** | Next.js • FastAPI • Google Gemini API |
-| 🚔 **Chicago Crime Hotspot Analyzer** | Python • Flask • MongoDB • Scikit-Learn |
-| 📊 **Batch Wise Course Analysis** | Node.js • Express.js • PostgreSQL |
-| 🌐 **SZABIST Campus Network Infrastructure** | Cisco Packet Tracer • VLAN • OSPF • ACL |
+| Project | Description |
+|----------|-------------|
+| 💰 **Expense Tracker with Charts** | Personal finance management application built with ASP.NET Core MVC, SQL Server, Entity Framework Core and Chart.js. |
+| 🤖 **AI Chatbot** | Full-stack AI chatbot developed using Next.js, FastAPI and Google Gemini API for real-time conversations. |
+| 🚔 **Chicago Crime Hotspot Analyzer** | Machine learning application that detects crime hotspots using K-Means clustering with Flask and MongoDB. |
+| 📊 **Batch Wise Course Analysis** | University database management system for curriculum-wise course performance analysis using Node.js and PostgreSQL. |
+| 🌐 **SZABIST Campus Network Infrastructure** | Enterprise campus network designed in Cisco Packet Tracer implementing VLANs, OSPF, ACLs, DHCP and NAT/PAT. |
 
 <p align="center">
-
-📂 **View all repositories**
-
 <a href="https://github.com/abdulrehman-mk?tab=repositories">
-github.com/abdulrehman-mk
+<b>🔗 View All Repositories</b>
 </a>
-
 </p>
 
 ---
@@ -87,19 +84,23 @@ github.com/abdulrehman-mk
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrehman-mk&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrehman-mk&theme=github_dark"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulrehman-mk&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman-mk&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 📊 Contribution Activity
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
 
+---
+
+## 📫 Connect With Me
+
+<p align="center">
 <a href="mailto:abdulrehman06012@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
@@ -111,11 +112,10 @@ github.com/abdulrehman-mk
 <a href="https://github.com/abdulrehman-mk">
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
-
 </p>
 
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+  <i>"Building software that solves real-world problems, one project at a time."</i>
 </p>
