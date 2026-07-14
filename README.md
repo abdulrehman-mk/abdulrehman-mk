@@ -1,49 +1,40 @@
-<!-- ===================== Abdul Rehman ===================== -->
+<!-- ====================== Abdul Rehman GitHub Profile ====================== -->
 
 <h1 align="center">
   Hi, I'm Abdul Rehman
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 </h1>
 
 <h3 align="center">
-  BS Computer Science Student at SZABIST Karachi
+BS Computer Science Student at SZABIST Karachi <br>
+ASP.NET Core Developer • Backend Developer • Cloud Computing (AWS)
 </h3>
 
 <p align="center">
-ASP.NET Core Developer • Backend Developer • Cloud Computing (AWS)
-</p>
-
-<p align="center">
   <a href="mailto:abdulrehman06012@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/abdul-rehman-mk/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/abdulrehman-mk">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a **BS Computer Science student at SZABIST Karachi** passionate about backend development, cloud computing, and software engineering.
+I'm a **BS Computer Science student at SZABIST Karachi** with a strong interest in **backend development**, **cloud computing**, and **software engineering**.
 
-I enjoy building scalable web applications, designing REST APIs, developing database-driven systems, and solving real-world problems through technology.
+I enjoy building scalable web applications, designing REST APIs, working with databases, and solving real-world problems through software.
 
-**Currently focusing on:**
-
-- ASP.NET Core MVC
-- Backend Development
-- Cloud Computing (AWS)
-- System Design
-- Software Architecture
+Currently expanding my knowledge in **AWS Cloud Computing**, **System Design**, and **Software Architecture** while developing practical projects using modern technologies.
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
 ### Languages
 
@@ -63,7 +54,7 @@ I enjoy building scalable web applications, designing REST APIs, developing data
 <img src="https://skillicons.dev/icons?i=sqlserver,postgres,mongodb&theme=dark"/>
 </p>
 
-### Cloud & Tools
+### Cloud & Developer Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,visualstudio,postman,figma,ubuntu&theme=dark"/>
@@ -71,33 +62,66 @@ I enjoy building scalable web applications, designing REST APIs, developing data
 
 ---
 
-## Featured Projects
+## 🌟 Featured Projects
 
-| Project | Tech Stack |
-|:---------|:-----------|
+| Project | Technologies |
+|----------|--------------|
 | 💰 **Expense Tracker with Charts** | ASP.NET Core MVC • SQL Server • Entity Framework Core • Chart.js |
 | 🤖 **AI Chatbot** | Next.js • FastAPI • Google Gemini API |
-| 🚔 **Chicago Crime Hotspot Analyzer** | Python • Flask • MongoDB • Machine Learning |
+| 🚔 **Chicago Crime Hotspot Analyzer** | Python • Flask • MongoDB • Scikit-Learn |
 | 📊 **Batch Wise Course Analysis** | Node.js • Express.js • PostgreSQL |
-| 🌐 **Campus Network Infrastructure** | Cisco Packet Tracer • OSPF • VLAN • ACL |
+| 🌐 **SZABIST Campus Network Infrastructure** | Cisco Packet Tracer • VLAN • OSPF • ACL |
 
 <p align="center">
-<a href="https://github.com/abdulrehman-mk?tab=repositories"><b>View All Repositories →</b></a>
+
+📂 **View all repositories**
+
+<a href="https://github.com/abdulrehman-mk?tab=repositories">
+github.com/abdulrehman-mk
+</a>
+
 </p>
 
 ---
 
-## GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulrehman-mk&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman-mk&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulrehman-mk&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman-mk&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman-mk&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## Contributions
+## 🤝 Connect With Me
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+<a href="mailto:abdulrehman06012@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abdul-rehman-mk/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="https://github.com/abdulrehman-mk">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
 </p>
