@@ -20,24 +20,62 @@
 
 ---
 
-### 🧠 Languages I Work With  
+## 🚀 Tech Stack
+
+
+### 💻 Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cs,html,css&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,c,js,html,css&theme=dark"/>
 </p>
 
 ---
 
-### 🧰 Tools, IDEs & Platforms I Use  
+### ☁️ Cloud & Developer Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,ubuntu,ps&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,visualstudio,postman,figma,ubuntu&theme=dark"/>
 </p>
 
 ---
 
-### 💼 Featured Project  
-#### 🚆 [Train Reservation System (Java)](https://github.com/abdul-rehman-2312410/TrainReservationSystem)
-A console-based Java project for **train ticket booking**, **searching reservations**, and **data handling**.  
-🧩 Built with **OOP concepts**, **Collections**, and **Sorting Algorithms**.
+### ⚙️ Frameworks & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,fastapi,bootstrap&theme=dark"/>
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=sqlserver,postgres,mongodb&theme=dark"/>
+</p>
+
+---
+
+
+## 🌟 Featured Projects
+
+
+| Project | Technologies |
+|----------|--------------|
+| 💰 **Expense Tracker with Charts** | ASP.NET Core MVC • SQL Server • Entity Framework Core • Chart.js |
+| 🤖 **AI Chatbot** | Next.js • FastAPI • Google Gemini API |
+| 🚔 **Chicago Crime Hotspot Analyzer** | Python • Flask • MongoDB • Scikit-Learn |
+| 📊 **Batch Wise Course Analysis** | Node.js • Express.js • PostgreSQL |
+| 🌐 **SZABIST Campus Network Infrastructure** | Cisco Packet Tracer • VLAN • OSPF • ACL |
+
+<p align="center">
+
+📂 **View all repositories**
+
+<a href="https://github.com/abdulrehman-mk?tab=repositories">
+github.com/abdulrehman-mk
+</a>
+
+</p>
 
 ---
 ### 🌍 Connect With Me
