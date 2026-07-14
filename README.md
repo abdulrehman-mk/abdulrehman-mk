@@ -56,7 +56,7 @@
 ---
 
 
-## 🌟 Featured Projects
+## 💼 Featured Projects
 
 
 | Project | Technologies |
