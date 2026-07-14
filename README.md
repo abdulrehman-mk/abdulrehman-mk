@@ -1,111 +1,103 @@
+<!-- ===================== Abdul Rehman ===================== -->
 
-# Hi 👋, I'm Abdul Rehman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32"/>
+<h1 align="center">
+  Hi, I'm Abdul Rehman
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" />
+</h1>
+
+<h3 align="center">
+  BS Computer Science Student at SZABIST Karachi
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=BSCS+Student+at+SZABIST+Karachi;Full+Stack+Developer;AWS+Cloud+Certified;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
+ASP.NET Core Developer • Backend Developer • Cloud Computing (AWS)
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=abdul-rehman-mk&label=Profile+Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/abdul-rehman-mk?style=social"/>
-<img src="https://img.shields.io/github/stars/abdul-rehman-mk?affiliations=OWNER&style=social"/>
+  <a href="mailto:abdulrehman06012@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdul-rehman-mk/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/abdulrehman-mk">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 BS Computer Science Student — **SZABIST Karachi**
-- ☁️ AWS Cloud Computing Certified
-- 💻 Full Stack Developer
-- 🤖 Interested in Machine Learning, Cloud Computing & Networking
-- 🌱 Learning advanced backend engineering and cloud architecture.
-- ⚡ I enjoy building practical software that solves real-world problems.
+I'm a **BS Computer Science student at SZABIST Karachi** passionate about backend development, cloud computing, and software engineering.
 
-## 🛠 Tech Stack
+I enjoy building scalable web applications, designing REST APIs, developing database-driven systems, and solving real-world problems through technology.
+
+**Currently focusing on:**
+
+- ASP.NET Core MVC
+- Backend Development
+- Cloud Computing (AWS)
+- System Design
+- Software Architecture
+
+---
+
+## Tech Stack
 
 ### Languages
-`C#` `Java` `Python` `JavaScript` `C` `HTML` `CSS`
 
-### Frameworks
-`ASP.NET Core MVC` `Flask` `Node.js` `Express.js` `Bootstrap`
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,c,js,html,css&theme=dark"/>
+</p>
+
+### Frameworks & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,fastapi,bootstrap&theme=dark"/>
+</p>
 
 ### Databases
-`SQL Server` `PostgreSQL` `MongoDB`
-
-### Cloud
-`AWS (EC2, S3, IAM, Lambda, RDS, VPC, Route53, API Gateway, SNS, SQS)`
-
-### Tools
-`Git` `GitHub` `Visual Studio` `VS Code` `Postman` `Cisco Packet Tracer`
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cs,dotnet,nodejs,flask,js,html,css,bootstrap,postgres,mongodb,git,github,aws,vscode,visualstudio,postman&perline=9"/>
+<img src="https://skillicons.dev/icons?i=sqlserver,postgres,mongodb&theme=dark"/>
+</p>
+
+### Cloud & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,visualstudio,postman,figma,ubuntu&theme=dark"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 💰 Expense Tracker | Authentication, expense/income tracking, budgets, Chart.js dashboard | ASP.NET Core MVC, EF Core, SQL Server |
-| 🚔 Chicago Crime Hotspot Analyzer | K-Means clustering with CRUD & hotspot visualization | Flask, Python, MongoDB, Scikit-Learn |
-| 🌐 SZABIST Campus Network | Enterprise network with VLANs, OSPF, DHCP, NAT/PAT, ACLs | Cisco Packet Tracer |
-| 📊 Batch Wise Course Analysis | Curriculum-wise analytics & student performance | Node.js, Express.js, PostgreSQL |
-
----
-
-## ☁️ AWS Certification
-
-✅ AWS Cloud Computing Certificate
-
----
-
-## 📊 GitHub Analytics
+| Project | Tech Stack |
+|:---------|:-----------|
+| 💰 **Expense Tracker with Charts** | ASP.NET Core MVC • SQL Server • Entity Framework Core • Chart.js |
+| 🤖 **AI Chatbot** | Next.js • FastAPI • Google Gemini API |
+| 🚔 **Chicago Crime Hotspot Analyzer** | Python • Flask • MongoDB • Machine Learning |
+| 📊 **Batch Wise Course Analysis** | Node.js • Express.js • PostgreSQL |
+| 🌐 **Campus Network Infrastructure** | Cisco Packet Tracer • OSPF • VLAN • ACL |
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdul-rehman-mk&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rehman-mk&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=abdul-rehman-mk&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abdul-rehman-mk&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-rehman-mk&theme=tokyo-night"/>
-</p>
-
-## 🐍 Snake Animation
-
-> Enable Platane/snk GitHub Action in your profile repository.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<a href="https://github.com/abdulrehman-mk?tab=repositories"><b>View All Repositories →</b></a>
 </p>
 
 ---
 
-## 📫 Connect
+## GitHub Statistics
 
-- 📧 abdulrehman06012@gmail.com
-- 💼 https://www.linkedin.com/in/abdul-rehman-mk/
-- 💻 https://github.com/abdul-rehman-mk
-
-## 📂 Repository Links
-
-Replace these with your actual repository URLs.
-
-- Expense Tracker
-- Chicago Crime Hotspot Analyzer
-- SZABIST Campus Network Infrastructure
-- Batch Wise Course Analysis
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulrehman-mk&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman-mk&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
-> **Code • Learn • Build • Repeat 🚀**
+## Contributions
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
