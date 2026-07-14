@@ -1,98 +1,111 @@
-# Hi, I'm Abdul Rehman 👋
 
-🎓 BS Computer Science Student at **SZABIST Karachi**
+# Hi 👋, I'm Abdul Rehman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32"/>
 
-💻 Aspiring Software Engineer | Full Stack Developer | Cloud Enthusiast
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=BSCS+Student+at+SZABIST+Karachi;Full+Stack+Developer;AWS+Cloud+Certified;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=abdul-rehman-mk&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/github/followers/abdul-rehman-mk?style=social"/>
+<img src="https://img.shields.io/github/stars/abdul-rehman-mk?affiliations=OWNER&style=social"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 BSCS Student at SZABIST Karachi
-- 💻 Interested in Full Stack Development, Cloud Computing, Machine Learning, and Networking
+- 🎓 BS Computer Science Student — **SZABIST Karachi**
 - ☁️ AWS Cloud Computing Certified
-- 🌱 Currently learning advanced backend development and cloud technologies
-- 🚀 I enjoy building practical software solutions that solve real-world problems.
-
----
+- 💻 Full Stack Developer
+- 🤖 Interested in Machine Learning, Cloud Computing & Networking
+- 🌱 Learning advanced backend engineering and cloud architecture.
+- ⚡ I enjoy building practical software that solves real-world problems.
 
 ## 🛠 Tech Stack
 
-**Languages**
-
+### Languages
 `C#` `Java` `Python` `JavaScript` `C` `HTML` `CSS`
 
-**Frameworks**
-
+### Frameworks
 `ASP.NET Core MVC` `Flask` `Node.js` `Express.js` `Bootstrap`
 
-**Databases**
-
+### Databases
 `SQL Server` `PostgreSQL` `MongoDB`
 
-**Cloud**
+### Cloud
+`AWS (EC2, S3, IAM, Lambda, RDS, VPC, Route53, API Gateway, SNS, SQS)`
 
-`AWS`
-
-**Tools**
-
+### Tools
 `Git` `GitHub` `Visual Studio` `VS Code` `Postman` `Cisco Packet Tracer`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cs,dotnet,nodejs,flask,js,html,css,bootstrap,postgres,mongodb,git,github,aws,vscode,visualstudio,postman&perline=9"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 💰 **Expense Tracker** | Personal finance manager with authentication, budgets, dashboard and charts. | ASP.NET Core MVC, EF Core, SQL Server, Chart.js |
-| 🚔 **Chicago Crime Hotspot Analyzer** | Machine Learning web app that detects crime hotspots using K-Means clustering. | Python, Flask, MongoDB, Scikit-Learn |
-| 🌐 **SZABIST Campus Network** | Enterprise campus network implementing VLANs, OSPF, DHCP, NAT/PAT and ACLs. | Cisco Packet Tracer |
-| 📊 **Batch Wise Course Analysis** | University course analytics system with curriculum-wise performance reports. | Node.js, Express.js, PostgreSQL |
+| Project | Description | Stack |
+|---|---|---|
+| 💰 Expense Tracker | Authentication, expense/income tracking, budgets, Chart.js dashboard | ASP.NET Core MVC, EF Core, SQL Server |
+| 🚔 Chicago Crime Hotspot Analyzer | K-Means clustering with CRUD & hotspot visualization | Flask, Python, MongoDB, Scikit-Learn |
+| 🌐 SZABIST Campus Network | Enterprise network with VLANs, OSPF, DHCP, NAT/PAT, ACLs | Cisco Packet Tracer |
+| 📊 Batch Wise Course Analysis | Curriculum-wise analytics & student performance | Node.js, Express.js, PostgreSQL |
 
 ---
 
-## ☁️ AWS Cloud
+## ☁️ AWS Certification
 
-✔ AWS Cloud Computing Certified
-
-### Familiar With
-
-- Amazon EC2
-- Amazon S3
-- AWS Lambda
-- Amazon RDS
-- IAM
-- VPC
-- Route 53
-- API Gateway
-- SNS
-- SQS
+✅ AWS Cloud Computing Certificate
 
 ---
 
-## 📜 Certifications
+## 📊 GitHub Analytics
 
-- 🏆 AWS Cloud Computing Certificate
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdul-rehman-mk&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rehman-mk&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=abdul-rehman-mk&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abdul-rehman-mk&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-rehman-mk&theme=tokyo-night"/>
+</p>
+
+## 🐍 Snake Animation
+
+> Enable Platane/snk GitHub Action in your profile repository.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
-- 📧 **Email:** abdulrehman06012@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/abdul-rehman-mk/
-- 💻 **GitHub:** https://github.com/abdul-rehman-mk
+- 📧 abdulrehman06012@gmail.com
+- 💼 https://www.linkedin.com/in/abdul-rehman-mk/
+- 💻 https://github.com/abdul-rehman-mk
 
----
+## 📂 Repository Links
 
-# 📂 Repositories
+Replace these with your actual repository URLs.
 
-| Repository | Link |
-|------------|------|
-| 💰 Expense Tracker | https://github.com/abdul-rehman-mk/ExpenseTracker |
-| 🚔 Chicago Crime Hotspot Analyzer | https://github.com/abdul-rehman-mk/Chicago-Crime-Hotspot-Analyzer |
-| 🌐 SZABIST Campus Network Infrastructure | https://github.com/abdul-rehman-mk/SZABIST-Campus-Network |
-| 📊 Batch Wise Course Analysis | https://github.com/abdul-rehman-mk/Batch-wise-Course-Analysis |
+- Expense Tracker
+- Chicago Crime Hotspot Analyzer
+- SZABIST Campus Network Infrastructure
+- Batch Wise Course Analysis
 
 ---
 
-> **"Code. Learn. Build. Repeat."**
+> **Code • Learn • Build • Repeat 🚀**
